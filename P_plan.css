@@ -1,0 +1,20 @@
+td
+{
+    border: 1px solid black;
+}
+
+table{
+
+    border-collapse: collapse;
+}
+
+#without_top
+{
+	border-top :none;
+
+}
+
+#without_bot
+{
+	border-bottom: none;
+}
